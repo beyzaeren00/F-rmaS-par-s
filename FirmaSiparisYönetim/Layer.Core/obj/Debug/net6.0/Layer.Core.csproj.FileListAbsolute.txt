@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\bin\Debug\net6.0\Layer.Core.deps.json
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\bin\Debug\net6.0\Layer.Core.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\bin\Debug\net6.0\Layer.Core.pdb
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\Layer.Core.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\Layer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\Layer.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\Layer.Core.AssemblyInfo.cs
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\Layer.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\Layer.Core.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\refint\Layer.Core.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\Layer.Core.pdb
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Core\obj\Debug\net6.0\ref\Layer.Core.dll

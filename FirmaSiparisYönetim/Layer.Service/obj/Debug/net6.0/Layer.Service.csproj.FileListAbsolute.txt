@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\bin\Debug\net6.0\Layer.Service.deps.json
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\bin\Debug\net6.0\Layer.Service.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\bin\Debug\net6.0\Layer.Service.pdb
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\bin\Debug\net6.0\Layer.Core.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\bin\Debug\net6.0\Layer.Repository.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\bin\Debug\net6.0\Layer.Repository.pdb
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\bin\Debug\net6.0\Layer.Core.pdb
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.AssemblyInfo.cs
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.csproj.CopyComplete
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\refint\Layer.Service.dll
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\Layer.Service.pdb
+C:\Users\ACER\source\repos\FirmaSiparisYönetim\Layer.Service\obj\Debug\net6.0\ref\Layer.Service.dll
